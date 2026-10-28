@@ -1,0 +1,2 @@
+# Streamlit_applications_Part2
+streamlit
